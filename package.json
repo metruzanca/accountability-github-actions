@@ -1,0 +1,17 @@
+{
+  "name": "accountability-github-actions",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metruzanca/accountability-github-actions.git"
+  },
+  "author": "",
+  "license": "GPLv3",
+  "homepage": "https://github.com/metruzanca/accountability-github-actions#readme"
+}

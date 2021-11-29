@@ -1,1 +1,2 @@
-# habit-log
+# Accountability Tracker
+
