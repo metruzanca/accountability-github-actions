@@ -4,7 +4,7 @@ name: Taking Accountability
 on:
   schedule:
     # Runs "every day at Midnight" (see https://crontab.guru)
-    - cron: '35 4 * * *'
+    - cron: '*/5 * * * *'
 jobs:
   build:
     name: Update all accountability logs
